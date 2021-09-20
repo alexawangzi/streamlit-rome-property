@@ -2,9 +2,10 @@
 
 A data app that helps aspiring Rome investors to discover and analyse the value of their properties for short rentals.
 
+![alt text](https://raw.githubusercontent.com/alexawangzi/streamlit-rome-property/master/UI.png)
+
 ## Team and project overview
 
-<details open="open">
 <summary><h3 style="display: inline-block">Team presentation</h2></summary>
 
 Jianing Chen / Guoyang Cui / Yuqi Shen / Zi Wang / Qiang Zhu
@@ -20,19 +21,18 @@ Jianing Chen / Guoyang Cui / Yuqi Shen / Zi Wang / Qiang Zhu
 4. Results Collation ：Yuqi Shen
 5. Documentation ：All members 
 
-</details>
 
-<details open="open">
+
 <summary><h3 style="display: inline-block">General strategy</h2></summary>
 
 1. Shows the distribution, occupancy rate and revenues for landlords of short rentals in Rome 
 2. Can be filtered according to year, time and number of bedrooms
 3. Help potential landlords to better choose their housing investments
-</details>
+
 
 ## Approach
 
-<details open="open">
+
 <summary><h3 style="display: inline-block">Approach description</h2></summary>
 
 Thinking from the perspective of landlord, we follow the story line that help the potential landlord decide where and how to invest in order to get larger profitability 
@@ -47,9 +47,9 @@ Thinking from the perspective of landlord, we follow the story line that help th
     2. ADR (= total revenue / total rent days) - Heatmap 
     3. Average Daily Revenue (= total revenue / total available days), As compared to ADR, profitability can better capture the actual revenues of landlords. - 3D barchart 
 
-</details>
 
-<details open="open">
+
+
 <summary><h3 style="display: inline-block">Future improvements</h2></summary>
 
 1. Better layout for widgets and more reasonable choice of widgets. For example, for the selection of number of bedrooms, we can use "multiselect" instead of "selectbox".  
@@ -63,7 +63,7 @@ Thinking from the perspective of landlord, we follow the story line that help th
 5. Add filtering options for Property_Type and Listing_Type.  
 
 6. Add labels to each data point. When clicking on a data point, its corresponding statistics and metrics will display.
-</details>
+
 
 ## Project usage
 
