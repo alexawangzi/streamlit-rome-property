@@ -30,6 +30,10 @@ Jianing Chen / Guoyang Cui / Yuqi Shen / Zi Wang / Qiang Zhu
 3. Help potential landlords to better choose their housing investments
 
 
+## Data
+
+Data utilised is AirDNA data liscensed through HEC Paris for research purpose.
+
 ## Approach
 
 
