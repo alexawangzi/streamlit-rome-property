@@ -7,23 +7,6 @@ A data app that helps aspiring Rome investors to discover and analyse the value 
 
 ## Team and project overview
 
-<summary><h3 style="display: inline-block">Team presentation</h2></summary>
-
-Jianing Chen / Guoyang Cui / Yuqi Shen / Zi Wang / Qiang Zhu
-
-1. First brainstorming:  All members 
-    1. Discuss user requirement to build story line
-    2. Confirm type of data visualisation 
-    3. Establish code collaboration form - Gitlab & git
-2. Data preprocessing and filter: Zi Wang 
-    1. Clean data and deal with missing value 
-3. Main task: All members 
-    1. Follow the visualisation logic, generate graphs separately, each person was responsible for one graph
-4. Results Collation ：Yuqi Shen
-5. Documentation ：All members 
-
-
-
 <summary><h3 style="display: inline-block">General strategy</h2></summary>
 
 1. Shows the distribution, occupancy rate and revenues for landlords of short rentals in Rome 
